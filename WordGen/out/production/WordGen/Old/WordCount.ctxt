@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=WordCount
+comment0.text=\r\n\ Counts\ the\ number\ of\ lines\ in\ a\ .txt\ document\r\n\r\n\ @author\ Adam\ Townsley\r\n\ @version\ 01/03/2023\r\n
+comment1.params=FILENAME
+comment1.target=WordCount(java.lang.String)
+comment2.params=
+comment2.target=int\ count()
+numComments=3
